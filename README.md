@@ -1,2 +1,4 @@
 # aoc23
-boom to the shaka and even to the laka
+- no looking at any solutions before i solve it myself
+- no copy pasting code
+- no ai (with the exception of using it as a search engine replacement, for looking up docs)

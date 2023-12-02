@@ -11,6 +11,7 @@ done < input.txt
 echo $sum
 
 # Part 2
+
 sum=0
 while read -r line; do
 	first=$(printf "%s\n" "$line" | rev | sed -nE "s/.*(eno|owt|eerht|ruof|evif|xis|neves|thgie|enin|[0-9]).*/\1/p" |
